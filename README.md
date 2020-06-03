@@ -5,7 +5,7 @@ This example contains a ready data access layer generated with Entity Framework 
 
 Database structure:
 
-![](/Images/DatabaseStructure.png)
+![](/Images/DatabaseStructure.png) 
 
 You can use this example to create your own DevExpress projects and explore our features.
 
