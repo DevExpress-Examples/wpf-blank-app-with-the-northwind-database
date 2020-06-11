@@ -9,4 +9,30 @@ Database structure:
 
 You can use this example to create DevExpress projects and explore our features.
 
-Refer to the following topic for information on how to connect your project to a database: [https://docs.devexpress.com/WPF/115149/scaffolding-wizard/data-access-layer/how-to-generate-data-access-layer-with-entity-framework-database-first](https://docs.devexpress.com/WPF/115149/scaffolding-wizard/data-access-layer/how-to-generate-data-access-layer-with-entity-framework-database-first).
+To connect your project to a database:
+
+1. Add the **ADO.NET Entity Data Model** to your project:
+
+    ![](/Images/AddDataModel.png)
+    
+2. In the **Entity Data Model Wizard** select **EF Designer from database**:
+
+    ![](/Images/EntityDataModel.png)
+    
+3. Click **New Connection**.
+
+4. Select the **Microsoft SQL Server Database File** as a data source and specify the path to a database file:
+
+    ![](/Images/ConnectionProperties.png)
+    
+5. Connect to a database:
+
+    ![](/Images/CreateDataConnection.png)
+    
+6. Select tables and views to include them in the model:
+
+    ![](/Images/SelectTables.png)
+    
+7. Set the database's **Copy to Output Directory** property to **Copy if newer**:
+
+    ![](/Images/DatabaseProperties.png)
