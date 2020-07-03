@@ -9,6 +9,8 @@ Database structure:
 
 You can use this example to create DevExpress projects and explore our features.
 
+We used the [DevExpress Template Gallery](https://docs.devexpress.com/WPF/16495/whats-installed/template-gallery) to create this project, so it includes the [DevExpress ThemedWindow](https://docs.devexpress.com/WPF/DevExpress.Xpf.Core.ThemedWindow) as a root element. Refer to the [Themes](https://docs.devexpress.com/WPF/7406/common-concepts/themes) topic for more information about custom-designed themes.
+
 To connect your project to a database:
 
 1. Add the **ADO.NET Entity Data Model** to your project:
