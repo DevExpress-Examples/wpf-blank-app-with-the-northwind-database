@@ -5,8 +5,7 @@
 <!-- default badges end -->
 # WPF Blank App with the Northwind Database
 
-
-This example contains a data access layer generated with Entity Framework Database First. In this example, the blank sample project is connected to the **Northwind** database.
+This example contains a data access layer generated with Entity Framework Database First. In this example, the blank sample project is connected to the **Northwind** database. You can find this database at the following path: [/CS(VB)/WPFBlankAppWithDatabase/Northwind.mdf](./CS/WPFBlankAppWithDatabase/Northwind.mdf).
 
 Database structure:
 
