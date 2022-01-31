@@ -42,3 +42,16 @@ To connect your project to a database:
 7. Set the database's **Copy to Output Directory** property to **Copy if newer**:
 
     ![](/Images/DatabaseProperties.png)
+
+
+## Documentation
+
+* [DevExpress WPF Controls](https://docs.devexpress.com/WPF/7875/wpf-controls)
+* [Data Grid - Getting Started](https://docs.devexpress.com/WPF/5863/controls-and-libraries/data-grid/getting-started)
+* [How To Generate Data Access Layer with Entity Framework Database First](https://docs.devexpress.com/WPF/115149/scaffolding-wizard/data-access-layer/how-to-generate-data-access-layer-with-entity-framework-database-first)
+
+
+## More Examples
+
+* [WPF Data Grid - Getting Started (.NET Framework)](https://github.com/DevExpress-Examples/wpf-data-grid-getting-started-net-framework)
+* [WPF Blank .NET Core App with the Northwind Database](https://github.com/DevExpress-Examples/wpf-blank-dot-net-core-app-with-the-northwind-database)
