@@ -56,7 +56,7 @@ To connect your project to a database:
 * [WPF Data Grid - Getting Started (.NET Framework)](https://github.com/DevExpress-Examples/wpf-data-grid-getting-started-net-framework)
 * [WPF Blank .NET Core App with the Northwind Database](https://github.com/DevExpress-Examples/wpf-blank-dot-net-core-app-with-the-northwind-database)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-blank-app-with-the-northwind-database&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-blank-app-with-the-northwind-database&~~~was_helpful=no)
 
